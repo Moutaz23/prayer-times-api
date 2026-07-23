@@ -2,6 +2,10 @@
 
 Eine arabische Webanwendung zur Anzeige täglicher Gebetszeiten für verschiedene Städte über eine externe API.
 
+## Screenshot
+
+![Prayer Times App](prayer-times-app.png)
+
 ## Funktionen
 
 - Anzeige der täglichen Gebetszeiten
